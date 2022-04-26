@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.71a75050.css","mappings":"AAAA,sBAEE,SAAU,CADV,WAAY,CAEZ,eACF,CAEA,QACE,cAAe,CACf,0BACF","sources":["components/Styling.css"],"sourcesContent":[".required-field::after {\n  content: \"*\";\n  color: red;\n  margin-left: 5px;\n}\n\n.button {\n  display: \"flex\";\n  justify-content: \"flex-end\";\n}\n"],"names":[],"sourceRoot":""}
